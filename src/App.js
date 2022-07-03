@@ -7,7 +7,7 @@ import Login from "./Components/Login";
 import Signup from "./Components/Signup";
 import Checkout from "./Components/shared/Checkout";
 import ProductDetail from "./Components/shared/ProductDetail";
-import ExamTest from './Components/ExamTest'
+import ExamTest from './Components/Azmoon/ExamTest'
 import ExamTestClassStyle from "./Components/ExamTestClassStyle";
 import ExamTestQ3 from "./Components/ExamTestQ3";
 import ExamTestQ4 from "./Components/ExamTestQ4";
